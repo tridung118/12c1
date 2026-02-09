@@ -6,7 +6,11 @@ html, body {
   background: black;
   color: white;
   font-family: Georama-Rg, Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
   background-image: url("../img/img.png");
+=======
+  background-image: url("../img.png");
+>>>>>>> c632753c98e7619e0c427b1e84c8ac9202637a19
   background-size: cover;       /* scale vừa màn hình */
   background-position: center;  /* canh giữa */
   background-repeat: no-repeat; /* không lặp */
